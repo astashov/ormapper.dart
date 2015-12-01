@@ -1,0 +1,16 @@
+name: ormapper
+description: Lightweight ORM based on Squilder
+version: 0.0.1
+author: Anton Astashov <anton.astashov@gmail.com>
+homepage: https://github.com/astashov/ormapper.dart
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  option: any
+  squilder: any
+  dapter: any
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
